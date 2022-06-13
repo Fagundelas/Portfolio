@@ -1,3 +1,4 @@
 # Portfolio
 
-- Projeto usando somente HTML, CSS E JavaScript.
+- Projeto usando HTML, CSS E JavaScript.
+- 
